@@ -3,7 +3,7 @@
 <h3 align="center">Backend Developer | Building robust & scalable RESTful APIs 🚀</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+  <a href="[https://linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/mhammd-mhd-99934135b?utm_source=share_via&utm_content=profile&utm_medium=member_android)">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:mhammd6mahmoud7@gmail.com">
@@ -58,10 +58,3 @@ Backend developer specializing in building robust and scalable RESTful APIs usin
 * **E-commerce API:** Developed secure RESTful APIs with product management, reviews, and authentication[cite: 1].
 * **E-Learning Platform:** Built a backend supporting multiple user roles and permissions[cite: 1].
 
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mhammd6Mahmoud7&theme=radical" />
-</p>
