@@ -1,6 +1,6 @@
 <h1 align="center">Hello! I'm Genesis</h1>
 
-<h3 align="center">tech, code, coffee <3</h3>
+<h3 align="center">tech, code, coffee &lt;3</h3>
 
 ---
 
@@ -16,12 +16,12 @@ software developer who loves coding and coffee
 
 ### 🛠️ Tech Stack
 
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
@@ -33,7 +33,7 @@ software developer who loves coding and coffee
 
 ### 📊 GitHub Stats
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Mhammd6Mahmoud7&show_icons=true&theme=radical" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-languages/?username=Mhammd6Mahmoud7&layout=compact&theme=radical" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mhammd6Mahmoud7&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-languages/?username=Mhammd6Mahmoud7&layout=compact&theme=radical" />
 </p>
