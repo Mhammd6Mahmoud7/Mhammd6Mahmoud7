@@ -2,15 +2,24 @@
 
 <h3 align="center">Backend Developer | Building robust & scalable RESTful APIs 🚀</h3>
 
+<p align="center">
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:mhammd6mahmoud7@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
 ---
 
 ### 🚀 About Me
 
-Backend developer specializing in building robust and scalable RESTful APIs using Node.js (Express.js). Experienced in managing databases and implementing integrated security systems for authentication and authorization.
+Backend developer specializing in building robust and scalable RESTful APIs using Node.js (Express.js)[cite: 1]. Experienced in managing databases and implementing integrated security systems for authentication and authorization[cite: 1].
 
-* 💻 I’m currently studying Information Technology Engineering (3rd year) at the University of Latakia.
+* 💻 I’m currently studying Information Technology Engineering (3rd year) at the University of Latakia[cite: 1].
 * 🎯 Passionate about writing clean code, designing database schemas, and building secure backend architectures.
-* ⚡ Fun fact: Committed to developing high-quality applications from design to deployment.
+* ⚡ Fun fact: Committed to developing high-quality applications from design to deployment[cite: 1].
 
 ---
 
@@ -43,3 +52,16 @@ Backend developer specializing in building robust and scalable RESTful APIs usin
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
+---
+
+### 💼 Featured Projects
+* **E-commerce API:** Developed secure RESTful APIs with product management, reviews, and authentication[cite: 1].
+* **E-Learning Platform:** Built a backend supporting multiple user roles and permissions[cite: 1].
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mhammd6Mahmoud7&theme=radical" />
+</p>
