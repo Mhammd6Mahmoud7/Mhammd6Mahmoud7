@@ -34,6 +34,5 @@ software developer who loves coding and coffee
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mhammd6Mahmoud7&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-languages/?username=Mhammd6Mahmoud7&layout=compact&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mhammd6Mahmoud7&theme=radical" />
 </p>
