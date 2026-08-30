@@ -15,11 +15,11 @@
 
 ### 🚀 About Me
 
-Backend developer specializing in building robust and scalable RESTful APIs using Node.js (Express.js)[cite: 1]. Experienced in managing databases and implementing integrated security systems for authentication and authorization[cite: 1].
+Backend developer specializing in building robust and scalable RESTful APIs using Node.js (Express.js). Experienced in managing databases and implementing integrated security systems for authentication and authorization.
 
-* 💻 I’m currently studying Information Technology Engineering (3rd year) at the University of Latakia[cite: 1].
+* 💻 I’m currently studying Information Technology Engineering (3rd year) at the University of Latakia.
 * 🎯 Passionate about writing clean code, system design, designing database schemas, and building secure backend architectures.
-* ⚡ Fun fact: Committed to developing high-quality applications from design to deployment[cite: 1].
+* ⚡ Fun fact: Committed to developing high-quality applications from design to deployment.
 
 ---
 
@@ -56,5 +56,5 @@ Backend developer specializing in building robust and scalable RESTful APIs usin
 ---
 
 ### 💼 Featured Projects
-* **E-commerce API:** Developed secure RESTful APIs with product management, reviews, and authentication[cite: 1].
-* **E-Learning Platform:** Built a backend supporting multiple user roles and permissions[cite: 1].
+* **E-commerce API:** Developed secure RESTful APIs with product management, reviews, and authentication.
+* **E-Learning Platform:** Built a backend supporting multiple user roles and permissions.
